@@ -1,0 +1,9 @@
+name = "YPPL_Parser"
+uuid = "54e4aa61-68be-4ac6-9fad-ed7868cad30c"
+authors = ["yiyuezhuo <yiyuezhuo@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
