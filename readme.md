@@ -1,4 +1,4 @@
-![YPPL_Parser](https://github.com/yiyuezhuo/YPPL_Parser.jl/workflows/YPPL_Parser-CI/badge.svg)
+![YPPL_Parser](https://github.com/yiyuezhuo/YPPL_Parser/workflows/YPPL_Parser/badge.svg)
 
 # YPPL_Parser
 
