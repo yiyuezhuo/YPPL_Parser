@@ -43,7 +43,8 @@ function recover_lp(mu, theta_t, tau)
     return target
 end
 
-const reference_mean = [4.41, 3.51, 6.2, 4.81, 3.97, 4.76, 3.63, 4.08, 6.22, 4.82]
+const reference_mean = [4.40, 3.60, 6.23, 4.94, 3.92, 4.76, 3.61, 4.04, 6.30, 4.86]
+const reference_std =  [3.32, 3.22, 5.60, 4.67, 5.26, 4.76, 4.66, 4.83, 5.09, 5.29]
 
 function decode(posterior)
     decoded = copy(posterior)
